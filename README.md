@@ -4,41 +4,41 @@
 ![Dashboard](Superstore%20sales%20dashboard.png)
 
 ## 📌 Overview
-This dashboard provides a complete analysis of Superstore sales performance from 2015 to 2018. It tracks business KPIs, sales distribution, and growth trends for data-driven decision making.
+This interactive Power BI dashboard provides a complete analysis of Superstore sales from Jan 2015 to Dec 2018. It tracks overall business performance, category-wise and region-wise sales distribution, and yearly sales trends.
 
 ## 📊 Key KPIs
-- **Total Sales:** $459.44K (0.46M)
-- **Total Profit:** $91.89K
-- **Total Orders:** 1,019
-- **Avg Order Value:** $450.87
+- **Total Sales:** $2.26M
+- **Total Profit:** $452.31K
+- **Total Orders:** 4,922
+- **Avg Order Value:** $459.48
 - **Profit Margin:** 20.00%
 
 ## 📈 Dashboard Breakdown
 
 **1. SALES BY CATEGORY (Donut Chart)**
-- Furniture: 35.71%
-- Technology: 35.32%
-- Office Supplies: 28.98%
-> Insight: Furniture is the top-selling category.
+- Technology: 36.59%
+- Furniture: 32.22%
+- Office Supplies: 31.19%
+> Insight: Technology is the top-selling category, but all 3 categories are almost equally distributed.
 
 **2. SALES BY REGION (Bar Chart)**
-- East Region is the highest performer, followed by West, Central & South.
+- West Region has the highest sales, followed by East, Central, and South.
 
-**3. YEARLY SALES TREND (Line Chart)**
-- Tracks Sales vs Profit from Jan 2016 to Nov 2016 (with Year Slicer 2015-2018)
-- Shows seasonality - peak sales observed in Sep & Nov 2016.
+**3. YEARLY SALES TREND (Line Chart - Sales vs TotalProfit)**
+- Tracks Sales & Profit from Jan 2015 to Dec 2018.
+- Shows clear seasonality and growth - peak sales in Q4 every year.
 
 **4. SELECT YEAR (Slicer)**
-- Interactive filter to analyze data year-wise (2015, 2016, 2017, 2018)
+- Interactive year filter (2015, 2016, 2017, 2018) to drill down into yearly performance.
 
-## 🛠️ Tools & Concepts Used
+## 🛠️ Tools Used
 Power BI Desktop | DAX Measures | Data Cleaning | Data Modeling | KPI Cards | Interactive Slicers
 
-## 💡 Key Business Insights
-- Maintained 20% overall profit margin.
-- East region drives maximum revenue - focus expansion there.
-- Furniture & Technology contribute ~71% of total sales.
+## 💡 Business Insights
+- Maintained a stable 20% profit margin on $2.26M sales.
+- West & East regions are the major revenue drivers.
+- All 3 product categories contribute almost equally to sales.
 
 ---
-**Author:** Nimesh Suthar
-[LinkedIn](https://www.linkedin.com/in/suthar-nimesh-a74909446) | [GitHub](https://github.com/sutharnimesh406)
+*Author: Nimesh Suthar
+[LinkedIn](https://www.linkedin.com/in/suthar-nimesh-a74909446)
